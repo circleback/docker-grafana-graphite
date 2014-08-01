@@ -1,0 +1,1 @@
+docker push $REGISTRY/grafana_graphite

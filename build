@@ -1,3 +1,4 @@
 #! /bin/bash
 
-docker build -t kamon/grafana_graphite .
+docker build -t circleback/grafana_graphite .
+docker build -t $REGISTRY/grafana_graphite .
